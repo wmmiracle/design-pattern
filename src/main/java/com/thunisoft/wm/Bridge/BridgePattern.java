@@ -6,4 +6,7 @@ package com.thunisoft.wm.Bridge;
  * @Date:Create：in 2020/4/28 16:06
  */
 public class BridgePattern {
+    public static void main(String[] args) {
+        System.out.println("hello world");
+    }
 }

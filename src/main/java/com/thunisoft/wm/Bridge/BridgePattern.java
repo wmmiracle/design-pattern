@@ -8,5 +8,6 @@ package com.thunisoft.wm.Bridge;
 public class BridgePattern {
     public static void main(String[] args) {
         System.out.println("hello world");
+        System.out.println("iamcute");
     }
 }
